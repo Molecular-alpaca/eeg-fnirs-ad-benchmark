@@ -1,0 +1,13 @@
+fs,clf,k_median,k_min,k_max,params_mode,params_mode_freq
+anova,LASSO,50.0,10,500,"{""C"": 0.5}",0.32
+anova,LR,200.0,10,500,"{""C"": 0.01}",0.68
+anova,RF,500.0,200,500,"{""max_depth"": 5, ""min_samples_leaf"": 1}",0.36
+anova,SVM,200.0,50,500,"{""C"": 10, ""gamma"": 0.0001}",0.4
+mi,LASSO,50.0,10,500,"{""C"": 5}",0.52
+mi,LR,50.0,10,500,"{""C"": 10}",0.36
+mi,RF,200.0,100,500,"{""max_depth"": 10, ""min_samples_leaf"": 1}",0.44
+mi,SVM,50.0,10,500,"{""C"": 100, ""gamma"": ""scale""}",0.28
+none,LASSO,4968.0,4968,4968,"{""C"": 0.1}",0.76
+none,LR,4968.0,4968,4968,"{""C"": 10}",0.84
+none,RF,4968.0,4968,4968,"{""max_depth"": 5, ""min_samples_leaf"": 1}",0.56
+none,SVM,4968.0,4968,4968,"{""C"": 1, ""gamma"": 0.0001}",0.4

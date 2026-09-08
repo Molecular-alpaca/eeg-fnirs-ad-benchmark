@@ -1,0 +1,9 @@
+File   : csv_folder/Experiment1/5secEEGPSD_FullFnirsPSD_FullFnirsTimeDomain.csv
+Repo   : https://github.com/AllGGI/Multi-Task-EEG-fNIRS-Alzheimer-Classification
+Commit : 7f3711235d4fed02e4c77ce4339fad8c806d7d03 (2023-09-21T13:02:05Z, latest on main)
+Fetched: 2026-09-07 via raw.githubusercontent.com ; 14,850,998 bytes ; identical to csv_folder/Experiment2 copy
+Note   : the working copy used for the original submission and the first re-analysis had been re-saved by a
+         spreadsheet application (values reduced to as few as 3 significant digits, max relative error 0.49%).
+         Sanity check on 25 outer folds: None+RF macro-AUC 0.8448 (repository file) vs 0.8451 (re-saved copy);
+         ANOVA+LR identical to 4 decimals; ANOVA top-50 feature sets identical. All final results are
+         recomputed on the repository file.

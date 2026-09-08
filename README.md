@@ -2,7 +2,7 @@
 
 Code, per-fold results and figures for the paper
 *Benchmarking Machine Learning for Multimodal EEG-fNIRS Classification of Alzheimer's Disease and Mild Cognitive Impairment*
-(W. Zhang, H. Zeng, Z. Cai — University College London; ICIMH 2026, under revision).
+(W. Zhang, H. Zeng, Z. Cai; ICIMH 2026, under revision).
 
 ## What is here
 
